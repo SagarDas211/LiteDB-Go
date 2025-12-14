@@ -1,0 +1,12 @@
+{
+	"Name": "John Doe",
+	"Age": 30,
+	"Contact": "123-456-7890",
+	"Company": "TechCorp",
+	"Address": {
+		"City": "San Francisco",
+		"State": "CA",
+		"Country": "USA",
+		"Pincode": 94105
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "Jane Smith",
+	"Age": 28,
+	"Contact": "987-654-3210",
+	"Company": "Innovatech",
+	"Address": {
+		"City": "New York",
+		"State": "NY",
+		"Country": "USA",
+		"Pincode": 10001
+	}
+}
